@@ -30,6 +30,7 @@ public class Ejercicio1 {
                     aux=vector[j];
                     vector[j]=vector[i];
                     vector[i]=aux;
+                    //////////////PRUEBBABABABABBABABA
                 }
             }
         }
