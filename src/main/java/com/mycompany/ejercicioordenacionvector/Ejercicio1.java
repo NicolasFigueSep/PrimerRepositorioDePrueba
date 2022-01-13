@@ -29,8 +29,7 @@ public class Ejercicio1 {
                 if(vector[i]>vector[j]){
                     aux=vector[j];
                     vector[j]=vector[i];
-                    vector[i]=aux;
-                    //////////////PRUEBBABABABABBABABA
+                    vector[i]=aux;                    
                 }
             }
         }
